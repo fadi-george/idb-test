@@ -7,12 +7,14 @@
     "dev": "vite"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
-    "vite": "^5.3.1"
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.2"
   },
   "dependencies": {
     "dexie": "^4.0.7",
     "idb": "^8.0.0",
-    "rrweb": "^2.0.0-alpha.4"
+    "rrweb": "^2.0.0-alpha.16",
+    "uuid": "^10.0.0"
   }
 }
